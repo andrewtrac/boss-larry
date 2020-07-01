@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&display=swap');
+
+.App {
+  text-align: center;
+  font-family: "Holtwood One SC";
+}
+
+.duck {
+  width: 400px;
+  height: 400px;
+}
+
+button {
+  position: absolute;
+  top: 500px;
+  right: 650px;
+}
